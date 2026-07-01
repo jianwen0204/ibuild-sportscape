@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jianwen0204.github.io/ibuild-sportscape/sitemap.xml
